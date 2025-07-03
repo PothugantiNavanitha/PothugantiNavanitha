@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pothugantinavanithareddy29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vxq8R2aDj1zwXK6spQLuPh_4kAjth6VZ/view?usp=drive_link](https://drive.google.com/file/d/1vxq8R2aDj1zwXK6spQLuPh_4kAjth6VZ/view?usp=drive_link)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
