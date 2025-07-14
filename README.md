@@ -4,7 +4,7 @@
 
 Enthusiastic and hardworking job seeker, fueled by a passion for technology and coding excellence. Ready to collaborate with a team, contribute to company goals, and create impactful software solutions.
 
-- 💻 I am currently enrolled in a B.Tech program at [Keshav Memorial Institute of Technology](https://www.kmit.in/) — Hyderabad, specializing in Computer Science.
+- 💻 I am currently enrolled in a B.Tech program at [Gokaraju Rangaraju Institute of Engineering and Technology](https://www.griet.ac.in/) — Hyderabad, specializing in Computer Science.
 - 🧑‍💻 I always try to see things from a fresh perspective and find something new to learn every day. New technologies inspire me to explore, experiment, and grow.
 - 👩🏽‍💻 Currently growing my skillset in [Flutter](https://docs.flutter.dev/).
 
@@ -33,14 +33,15 @@ Enthusiastic and hardworking job seeker, fueled by a passion for technology and 
 <details>
 
 ## 🎓 Education
-- 📍 **Keshav Memorial Institute of Technology, Hyderabad** — **<2022-2026>**\
-  📖 **Bachelor of Technology — Computer Science and Engineering**
 
-- 📍 **Sri Chaitanya Junior Kalasala, Hyderabad** — **<2020-2022>**\
-  📖 **Senior Secondary Schooling — MPC Stream**
+- 📍 **Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad** — **2023–2026**  
+  📖 **Bachelor of Technology — Computer Science Engineering** | **CGPA: 8.9**
 
-- 📍 **Ravindra Bharati School, Hyderabad** — **<2019-2020>**\
-  📖 **Secondary Schooling**
+- 📍 **Govt Polytechnic College** — **2020–2023**  
+  📖 **Diploma in Computer Science Engineering** | **CGPA: 9.5**
+
+- 📍 **TSWREIS School** — **2010–2020**  
+  📖 **Secondary School Certificate (SSC)** | **GPA: 10.0**
 
 </details>
 
