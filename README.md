@@ -6,7 +6,7 @@ Enthusiastic and hardworking job seeker, fueled by a passion for technology and 
 
 - 💻 I am currently enrolled in a B.Tech program at [Gokaraju Rangaraju Institute of Engineering and Technology](https://www.griet.ac.in/) — Hyderabad, specializing in Computer Science.
 - 🧑‍💻 I always try to see things from a fresh perspective and find something new to learn every day. New technologies inspire me to explore, experiment, and grow.
-- 👩🏽‍💻 Currently growing my skillset in [Flutter](https://docs.flutter.dev/).
+- 👩🏽‍💻 Currently growing my skillset in Java and DSA.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pothugantinavanitha&label=Profile%20views&color=32CD32&style=flat" alt="Pothuganti Navanitha" />
